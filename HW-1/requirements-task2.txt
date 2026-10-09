@@ -1,0 +1,6 @@
+# Versions used to produce task2_results.json (Python 3.12).
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.7.2
+gensim==4.3.3
+threadpoolctl==3.6.0
